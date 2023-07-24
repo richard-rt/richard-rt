@@ -30,6 +30,11 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * RPA: Selenium, Automation Anywhare
 
 ### 📘 Conceitos
+• Modelagem de banco de dados relacional.
+• Programação Orientada a Objetos - POO.
+• Estrutura de dados: listas, dicionário, filas e pilhas.
+• Amazon Cloud Practitioner - AWS fundamentos.
+• Docker
 
 
 ### 👨🏻‍💻 Soft Skills
