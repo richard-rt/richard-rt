@@ -25,6 +25,7 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 ### 👨🏻‍🎓 Tecnologias usadas
 
 * Linguagem de programação: Java, Python e JavaScript
+* Paradigma de programação: Programação Orientada a Objetos - POO
 * Banco de dados: MySQL Server e PostgreSQL
 * Font-end: HTML5, CSS3 e jQuery
 * Cloud: AWS
@@ -32,18 +33,19 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * Controle de versão: GIT
 * API: API REST
 
+
 ### 📘 Conceitos
+* Engenharia de requisitos
 * Modelagem de banco de dados relacional.
-* Programação Orientada a Objetos - POO.
 * Estrutura de dados: listas, dicionário, filas e pilhas.
+* Testes unitarios
 * Microserviços
 * Docker
-
 
 ### 👨🏻‍💻 Soft Skills
 
 
-### Socials
+### 🆕 Rede Social
 
 <p align="left"> <a href="https://www.linkedin.com/in/richard-p-teixeira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
