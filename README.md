@@ -12,7 +12,7 @@ Conhecimentos:
 
 * 🌍  Moro em São Paulo
 * ✉️  Meu contato [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
-* 🚀  Atualmente estou trabalhando na  [Vivo]([http://www.linkedin.com/in/richard-p-teixeira/](https://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/))
+* 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
 * 🧠  Estou estudando POO com Java e posteriormente Spring Boot na Alura
 
 ### Skills
