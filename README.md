@@ -22,8 +22,6 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
 * 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
 
-
-
 ### 👨🏻‍🎓 Tecnologias usadas
 
 * Linguagem de programação: Java e Python
@@ -34,7 +32,7 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 ### 📘 Conceitos
 
 
-### 👨🏻‍💻 Skills
+### 👨🏻‍💻 Soft Skills
 
 
 ### Socials
