@@ -1,19 +1,17 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Richard Teixeira!
 ========================================================================================================================================
 
-Desenvolvedor back-end em formação
-----------------------
-
-Cursando o 4º semestre em análise e desenvolvimento de sistemas e focando os estudos em Java e Spring Boot. 
-
-Plano de estudos: 
-
-Conhecimentos:
+Desenvolvedor back-end em formação, cursando o 4º semestre em análise e desenvolvimento de sistemas e focando os estudos em Java e Spring Boot. 
 
 * 🌍  Estou morando em São Paulo
 * ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
 * 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
 * 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
+
+* 👨🏻‍🎓  Plano de estudos: 
+
+* 📘  Conhecimentos:
+
 
 ### Skills
 
