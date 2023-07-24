@@ -12,7 +12,7 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * Linguagem de programação: Java e Python
 * Banco de dados: MySQL Server e PostgreSQL
 * Cloud: AWS
-* RPA: 
+* RPA: Selenium, Automation Anywhare
 
 ### 📘 Conceitos
 
