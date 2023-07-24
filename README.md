@@ -1,15 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richard Teixeira
+Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Richard Teixeira
 ========================================================================================================================================
 
-Desenvolvedor back-end
+Desenvolvedor back-end em formação
 ----------------------
 
-Cursando o 4º semestre em análise e desenvolvimento de sistemas e com foco em Java e Spring Boot. Plano de estudos: Conhecimentos:
+Cursando o 4º semestre em análise e desenvolvimento de sistemas e com foco em Java e Spring Boot. 
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
-* 🚀  I'm currently working on [Linkedin](http://www.linkedin.com/in/richard-p-teixeira/)
-* 🧠  I'm learning Java POO e Spring Boot in Alura
+Plano de estudos: 
+
+Conhecimentos:
+
+* 🌍  Moro em São Paulo
+* ✉️  Meu contato [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
+* 🚀  Atualmente estou trabalhando na  [Vivo]([http://www.linkedin.com/in/richard-p-teixeira/](https://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/))
+* 🧠  Estou estudando POO com Java e posteriormente Spring Boot na Alura
 
 ### Skills
 
