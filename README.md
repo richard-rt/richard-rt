@@ -7,13 +7,17 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
 * 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
 * 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
+* 
+### 👨🏻‍🎓 Tecnologias
+* Linguagem de programação: Java e Python
+* Banco de dados: MySQL Server e PostgreSQL
+* Cloud: AWS
+* RPA: 
 
-* 👨🏻‍🎓  Plano de estudos: 
-
-* 📘  Conhecimentos:
+### 📘 Conceitos
 
 
-### Skills
+### 👨🏻‍💻 Skills
 
 
 <p align="left">
