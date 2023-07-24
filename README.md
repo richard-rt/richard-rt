@@ -7,8 +7,8 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
 * 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
 * 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
-* 
-### 👨🏻‍🎓 Tecnologias
+
+
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -23,6 +23,7 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
+### 👨🏻‍🎓 Tecnologias usadas
 
 * Linguagem de programação: Java e Python
 * Banco de dados: MySQL Server e PostgreSQL
