@@ -46,11 +46,10 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * Comunicativo;
 * Iniciativa;
 * Organizado;
-* Capacidade analítica
-* Planejamento estratégico
+* Capacidade analítica;
+* Planejamento estratégico;
 
-
-### 🆕 Rede Social
+### 🆕 Redes Sociais
 
 <p align="left"> <a href="https://www.linkedin.com/in/richard-p-teixeira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
