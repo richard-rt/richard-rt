@@ -1,14 +1,5 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) meu nome é Richard Teixeira!
 ========================================================================================================================================
-
-Desenvolvedor back-end em formação, cursando o 4º semestre em análise e desenvolvimento de sistemas e focando os estudos em Java e Spring Boot. 
-
-* 🌍  Estou morando em São Paulo
-* ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
-* 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
-* 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
-
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -23,6 +14,16 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
+
+Desenvolvedor back-end em formação, cursando o 4º semestre em análise e desenvolvimento de sistemas e focando os estudos em Java e Spring Boot. 
+
+* 🌍  Estou morando em São Paulo
+* ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
+* 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
+* 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
+
+
+
 ### 👨🏻‍🎓 Tecnologias usadas
 
 * Linguagem de programação: Java e Python
