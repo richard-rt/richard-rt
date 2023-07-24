@@ -24,17 +24,20 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 
 ### 👨🏻‍🎓 Tecnologias usadas
 
-* Linguagem de programação: Java e Python
+* Linguagem de programação: Java, Python e JavaScript
 * Banco de dados: MySQL Server e PostgreSQL
+* Font-end: HTML5, CSS3 e jQuery
 * Cloud: AWS
 * RPA: Selenium, Automation Anywhare
+* Controle de versão: GIT
+* API: API REST
 
 ### 📘 Conceitos
-• Modelagem de banco de dados relacional.
-• Programação Orientada a Objetos - POO.
-• Estrutura de dados: listas, dicionário, filas e pilhas.
-• Amazon Cloud Practitioner - AWS fundamentos.
-• Docker
+* Modelagem de banco de dados relacional.
+* Programação Orientada a Objetos - POO.
+* Estrutura de dados: listas, dicionário, filas e pilhas.
+* Microserviços
+* Docker
 
 
 ### 👨🏻‍💻 Soft Skills
