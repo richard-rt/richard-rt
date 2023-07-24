@@ -33,7 +33,6 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * Controle de versão: GIT
 * API: API REST
 
-
 ### 📘 Conceitos
 * Engenharia de requisitos
 * Modelagem de banco de dados relacional.
@@ -43,6 +42,12 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * Docker
 
 ### 👨🏻‍💻 Soft Skills
+* Flexível;
+* Comunicativo;
+* Iniciativa;
+* Organizado;
+* Capacidade analítica
+* Planejamento estratégico
 
 
 ### 🆕 Rede Social
