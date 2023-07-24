@@ -4,7 +4,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor back-end em formação
 ----------------------
 
-Cursando o 4º semestre em análise e desenvolvimento de sistemas e com foco em Java e Spring Boot. 
+Cursando o 4º semestre em análise e desenvolvimento de sistemas e focando os estudos em Java e Spring Boot. 
 
 Plano de estudos: 
 
