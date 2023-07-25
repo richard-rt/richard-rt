@@ -32,6 +32,7 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * RPA: Selenium, Automation Anywhare
 * Controle de versão: GIT
 * API: API REST
+* Metodologia agil: Scrum e Kanban
 
 ### 📘 Conceitos
 * Engenharia de requisitos
