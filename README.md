@@ -38,8 +38,8 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * Engenharia de requisitos
 * Modelagem de banco de dados relacional.
 * Estrutura de dados: listas, dicionário, filas e pilhas.
-* Testes unitarios
-* Microserviços
+* Testes unitários
+* Microsserviços
 * Docker
 
 ### 👨🏻‍💻 Soft Skills
