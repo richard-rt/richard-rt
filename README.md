@@ -20,13 +20,13 @@ Desenvolvedor back-end em formação, cursando o 4º semestre em análise e dese
 * 🌍  Estou morando em São Paulo
 * ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
 * 🚀  Atualmente estou trabalhando na [Vivo](http://www.linkedin.com/company/vivo-telefonicabr/mycompany/verification/)
-* 🧠  Estou estudando na alura, programação orientado a objetos com Java e posteriormente Spring Boot
+
 
 ### 👨🏻‍🎓 Tecnologias usadas
 
-* Linguagem de programação: Java, Python e JavaScript
-* Paradigma de programação: Programação Orientada a Objetos - POO
-* Banco de dados: MySQL Server e PostgreSQL
+* Linguagem de programação: Java e Python
+* Programação Orientada a Objetos - POO
+* Banco de dados: MySQL e Mongo DB
 * Font-end: HTML5, CSS3 e jQuery
 * Cloud: AWS
 * RPA: Selenium, Automation Anywhare
