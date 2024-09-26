@@ -15,7 +15,7 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-Desenvolvedor back-end em formação, cursando o 5º semestre em análise e desenvolvimento de sistemas e focando os estudos em Java e Spring Boot. 
+Sou um profissional com experiência em setores como: administração, logística, militar e telecomunicações. Essas experiências me fizeram desenvolver habilidades como: resolução de problemas, facilidade em entender as regras do negócio e definição de requisitos. Com isso, consigo ajudar empresas a criar soluções inovadoras com tecnologia para ir de encontro com a transformação digital do negócio. 
 
 * 🌍  Estou morando em São Paulo
 * ✉️  Entre em contato comigo pelo e-mail [richardteixeira26@gmail.com](mailto:richardteixeira26@gmail.com)
